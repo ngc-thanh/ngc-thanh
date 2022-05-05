@@ -97,11 +97,13 @@ Here are some ideas to get you started:
 <br>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-34-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,129 Contributions in the Year 2022
+> 🏆 1,130 Contributions in the Year 2022
  > 
 > 📦 354.0 kB Used in GitHub's Storage 
  > 
@@ -114,22 +116,10 @@ Here are some ideas to get you started:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    366 commits    ███████░░░░░░░░░░░░░░░░░░   29.73% 
-🌆 Daytime    483 commits    █████████░░░░░░░░░░░░░░░░   39.24% 
-🌃 Evening    364 commits    ███████░░░░░░░░░░░░░░░░░░   29.57% 
+🌞 Morning    366 commits    ███████░░░░░░░░░░░░░░░░░░   29.71% 
+🌆 Daytime    483 commits    █████████░░░░░░░░░░░░░░░░   39.2% 
+🌃 Evening    365 commits    ███████░░░░░░░░░░░░░░░░░░   29.63% 
 🌙 Night      18 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   1.46%
-
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday       166 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.48% 
-Tuesday      156 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.67% 
-Wednesday    88 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.15% 
-Thursday     136 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.05% 
-Friday       156 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.67% 
-Saturday     77 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.26% 
-Sunday       452 commits    █████████░░░░░░░░░░░░░░░░   36.72%
 
 ```
 
@@ -137,8 +127,6 @@ Sunday       452 commits    █████████░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Asia/Ho_Chi_Minh
-
 💬 Programming Languages: 
 No Activity Tracked This Week
 
@@ -162,12 +150,8 @@ C++                      5 repos             █░░░░░░░░░░�
 ```
 
 
-**Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/ngc-thanh/ngc-thanh/main/charts/bar_graph.png) 
-
-
- Last Updated on 05/05/2022 12:11:12 UTC
+ Last Updated on 05/05/2022 12:17:45 UTC
 <!--END_SECTION:waka-->
 
 <br>
