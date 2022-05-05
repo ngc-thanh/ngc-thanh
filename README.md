@@ -97,28 +97,14 @@ Here are some ideas to get you started:
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%20mins-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-63-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-34-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 1,130 Contributions in the Year 2022
- > 
-> 📦 354.0 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 52 Public Repositories 
- > 
-> 🔑 105 Private Repositories  
- > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    366 commits    ███████░░░░░░░░░░░░░░░░░░   29.71% 
-🌆 Daytime    483 commits    █████████░░░░░░░░░░░░░░░░   39.2% 
-🌃 Evening    365 commits    ███████░░░░░░░░░░░░░░░░░░   29.63% 
+🌞 Morning    366 commits    ███████░░░░░░░░░░░░░░░░░░   29.68% 
+🌆 Daytime    483 commits    █████████░░░░░░░░░░░░░░░░   39.17% 
+🌃 Evening    366 commits    ███████░░░░░░░░░░░░░░░░░░   29.68% 
 🌙 Night      18 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   1.46%
 
 ```
@@ -151,7 +137,7 @@ C++                      5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 05/05/2022 12:17:45 UTC
+ Last Updated on 05/05/2022 18:44:45 UTC
 <!--END_SECTION:waka-->
 
 <br>
