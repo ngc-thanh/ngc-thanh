@@ -97,9 +97,9 @@ Here are some ideas to get you started:
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-29%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-67-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-71-blue)
 
 **I'm an Early 🐤** 
 
@@ -143,7 +143,7 @@ C++                      5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 11/05/2022 16:13:36 UTC
+ Last Updated on 11/05/2022 18:46:03 UTC
 <!--END_SECTION:waka-->
 
 <br>
