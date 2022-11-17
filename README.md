@@ -99,10 +99,13 @@ Here are some ideas to get you started:
 
 <br>
 
+
 <!--START_SECTION:waka-->
+<!--
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+-->
 
 **I'm an Early 🐤** 
 
@@ -150,6 +153,7 @@ C++                      5 repos             █░░░░░░░░░░�
  Last Updated on 22/07/2022 18:46:49 UTC
 <!--END_SECTION:waka-->
 
+<!---
 <br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ngc-thanh&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="ngc-thanh" /></p>
@@ -161,3 +165,5 @@ C++                      5 repos             █░░░░░░░░░░�
 		<img src="https://github-profile-trophy.vercel.app/?username=ngc-thanh&bg_color=0d1117&text_color=ffffff" alt="ngc-thanh"/>
 	</a>
 </p>
+-->
+
