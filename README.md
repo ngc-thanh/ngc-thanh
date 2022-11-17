@@ -93,12 +93,12 @@ Here are some ideas to get you started:
 
 
 <br>
--->
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ngc-thanh&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat" alt="ngc-thanh" /></p>
 
 <br>
-
+-->
 
 <!--START_SECTION:waka-->
 <!--
@@ -106,7 +106,7 @@ Here are some ideas to get you started:
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 -->
-
+<br>
 **I'm an Early 🐤** 
 
 ```text
