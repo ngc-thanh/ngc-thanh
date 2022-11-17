@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Thanh</h1>
 <h3 align="center">Web developer 🌟</h3>
-
+<p><img align="right" src="https://github.com/ngc-thanh/ngc-thanh/blob/main/animation_500_kxa883sd.gif" alt="ngc-thanh" /></p>
 <br>
 
 <p align="right"> <h3>Profile Views:</h3> <img src="https://komarev.com/ghpvc/?username=ngc-thanh&label=Profile%20views&color=0e75b6&style=flat"
@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 
 <br>
 
-<p><img align="right" src="https://github.com/ngc-thanh/ngc-thanh/blob/main/animation_500_kxa883sd.gif" alt="ngc-thanh" /></p>
 
 - 🌱 I’m currently working as a web developer in both frontend (NuxtJS, ReactJS) and backend (Rails, Laravel)
 
