@@ -83,14 +83,17 @@ Here are some ideas to get you started:
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original-wordmark.svg" alt="heroku" width="40" height="40" />
 	</a>
 </p>
-
+<!---
 <br>
+
 
 <h3>Statistical Data</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ngc-thanh&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="ngc-thanh" bg_color=#808080/>
 </p>
 
+
 <br>
+-->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ngc-thanh&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat" alt="ngc-thanh" /></p>
 
@@ -111,6 +114,7 @@ Here are some ideas to get you started:
 
 ```
 
+<!---
 
 📊 **This Week I Spent My Time On** 
 
@@ -140,7 +144,7 @@ Java                     6 repos             █░░░░░░░░░░�
 C++                      5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.88%
 
 ```
-
+-->
 
 
  Last Updated on 22/07/2022 18:46:49 UTC
