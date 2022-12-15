@@ -26,13 +26,13 @@ Here are some ideas to get you started:
 
 <br>
 
-
+<!--
 - 🌱 I’m currently working as a web developer in both frontend (NuxtJS, ReactJS) and backend (Rails, Laravel)
-
+-->
 - 📫 How to reach me **thban2803@gmail.com**
 
 <br>
-
+<!--
 <h3 align="left">Languages and Tools</h3>
 <p align="left">
 	<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -82,6 +82,7 @@ Here are some ideas to get you started:
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original-wordmark.svg" alt="heroku" width="40" height="40" />
 	</a>
 </p>
+-->
 <!---
 <br>
 
