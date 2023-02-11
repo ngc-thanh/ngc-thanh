@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <!--
 - 🌱 I’m currently working as a web developer in both frontend (NuxtJS, ReactJS) and backend (Rails, Laravel)
 -->
-- 📫 How to reach me **thban2803@gmail.com**
+- 📫 How to reach me **thban.work@gmail.com**
 
 <br>
 <!--
